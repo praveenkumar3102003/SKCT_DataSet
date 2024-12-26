@@ -1,0 +1,698 @@
+ [
+    {
+      "question": "Are there any eco-clubs or sustainability initiatives?",
+      "answer": "Yes, Sri Krishna College of Technology has an active eco-club that organizes various environmental sustainability initiatives."
+    },
+    {
+      "question": "How can I participate in tree-planting drives?",
+      "answer": "You can join the eco-club or keep an eye on announcements about tree-planting events organized by the college."
+    },
+    {
+      "question": "What are the energy-saving measures on campus?",
+      "answer": "The campus has implemented LED lighting, motion sensors, and energy-efficient air conditioners to save electricity."
+    },
+    {
+      "question": "Does the campus have recycling facilities?",
+      "answer": "Yes, recycling bins are placed across the campus for segregating waste such as paper, plastic, and e-waste."
+    },
+    {
+      "question": "Is there a green building initiative at the college?",
+      "answer": "Yes, some of the buildings on campus are designed with energy-efficient features such as natural lighting and eco-friendly materials."
+    },
+    {
+      "question": "What is the college doing to reduce plastic usage?",
+      "answer": "The college has banned single-use plastics and encourages students and staff to use reusable bags and bottles."
+    },
+    {
+      "question": "Does the campus have a composting program?",
+      "answer": "Yes, organic waste from canteens and kitchens is composted and used as fertilizer for the campus gardens."
+    },
+    {
+      "question": "Are there electric vehicle charging stations on campus?",
+      "answer": "Yes, the college has set up electric vehicle charging stations to promote the use of electric vehicles."
+    },
+    {
+      "question": "What sustainability programs are available for students?",
+      "answer": "The college offers various programs through its eco-club, including awareness campaigns, clean-up drives, and sustainability workshops."
+    },
+    {
+      "question": "How does the campus manage water conservation?",
+      "answer": "The college has installed water-efficient fixtures, rainwater harvesting systems, and a wastewater treatment plant for sustainable water management."
+    },
+    {
+      "question": "Is there a focus on sustainable food practices at the campus canteen?",
+      "answer": "Yes, the canteen prioritizes locally sourced food, minimizes food waste, and uses biodegradable packaging."
+    },
+    {
+      "question": "Are there any green spaces on campus?",
+      "answer": "The campus has several green spaces, including gardens and open areas, for students to relax and connect with nature."
+    },
+    {
+      "question": "How does the college promote awareness about climate change?",
+      "answer": "The college organizes seminars, workshops, and awareness drives about climate change and its impact on the environment."
+    },
+    {
+      "question": "Are there any student-led sustainability projects?",
+      "answer": "Yes, students often lead sustainability projects such as clean-up drives, awareness campaigns, and upcycling initiatives."
+    },
+    {
+      "question": "Does the college encourage sustainable transportation?",
+      "answer": "Yes, the college promotes cycling, walking, and carpooling to reduce the carbon footprint of transportation."
+    },
+    {
+      "question": "What is the college doing to reduce its carbon footprint?",
+      "answer": "The college is working on reducing energy consumption, promoting green transportation, and encouraging waste reduction practices."
+    },
+    {
+      "question": "Does the campus have solar energy installations?",
+      "answer": "Yes, the college has installed solar panels to reduce its reliance on non-renewable energy sources."
+    },
+    {
+      "question": "What steps are taken to reduce water wastage on campus?",
+      "answer": "Water-efficient fixtures, regular maintenance of plumbing systems, and rainwater harvesting contribute to reducing water wastage."
+    },
+    {
+      "question": "Is there a program to monitor air quality on campus?",
+      "answer": "Yes, the campus has air quality monitoring systems to ensure a healthy environment for students and staff."
+    },
+    {
+      "question": "How does the college handle electronic waste (e-waste)?",
+      "answer": "E-waste is properly segregated, collected, and disposed of through authorized e-waste management vendors."
+    },
+    {
+      "question": "Are there initiatives to promote biodiversity on campus?",
+      "answer": "Yes, the campus hosts various initiatives such as planting native species and protecting local wildlife."
+    },
+    {
+      "question": "Is the campus actively involved in community sustainability programs?",
+      "answer": "Yes, the college collaborates with local communities to implement sustainability programs like tree-planting and waste management."
+    },
+    {
+      "question": "What kind of waste reduction practices are in place on campus?",
+      "answer": "The college encourages waste segregation, recycling, and reusing materials to reduce overall waste production."
+    },
+    {
+      "question": "Are there any educational programs about sustainability?",
+      "answer": "The college offers workshops, webinars, and lectures to educate students about sustainability and environmental protection."
+    },
+    {
+      "question": "How does the campus support sustainable construction practices?",
+      "answer": "New construction projects follow sustainable building guidelines, including energy-efficient designs and the use of eco-friendly materials."
+    },
+    {
+      "question": "Are there any water-saving technologies on campus?",
+      "answer": "Yes, water-saving devices like low-flow faucets, dual flush toilets, and drip irrigation systems are used throughout the campus."
+    },
+    {
+      "question": "What sustainable practices are used in campus events?",
+      "answer": "The college ensures that campus events minimize waste, use eco-friendly materials, and promote sustainable practices."
+    },
+    {
+      "question": "Does the college support any tree conservation programs?",
+      "answer": "Yes, the college participates in tree conservation programs by planting trees and maintaining existing green areas."
+    },
+    {
+      "question": "How can I reduce my environmental impact on campus?",
+      "answer": "You can reduce your impact by using public transport, reducing waste, conserving energy, and participating in sustainability programs."
+    },
+    {
+      "question": "Are there any policies regarding the use of non-renewable resources?",
+      "answer": "Yes, the college has policies in place to minimize the use of non-renewable resources and promote renewable energy sources."
+    },
+    {
+      "question": "What are the college’s initiatives for sustainable academic resources?",
+      "answer": "The college promotes the use of digital resources, reducing paper usage, and encourages eco-friendly printing practices."
+    },
+    {
+      "question": "Does the college have an environmental impact assessment process?",
+      "answer": "Yes, the college conducts periodic environmental impact assessments to identify and reduce its environmental footprint."
+    },
+    {
+      "question": "How can I contribute to sustainability on campus?",
+      "answer": "You can join the eco-club, reduce your waste, promote sustainability initiatives, and encourage others to follow eco-friendly practices."
+    },
+    {
+      "question": "Are there any partnerships with environmental organizations?",
+      "answer": "Yes, the college collaborates with local and national environmental organizations to promote sustainability."
+    },
+    {
+      "question": "What role does the campus play in the local community’s environmental efforts?",
+      "answer": "The campus works with local communities to implement green initiatives like waste management, tree planting, and water conservation."
+    },
+    {
+      "question": "Does the college have any incentives for students to engage in sustainability efforts?",
+      "answer": "Yes, students are encouraged to participate in sustainability programs and can earn recognition or certificates for their contributions."
+    },
+    {
+      "question": "How does the college manage its campus landscaping?",
+      "answer": "The college uses sustainable landscaping practices, including native plants, efficient irrigation systems, and organic fertilizers."
+    },
+    {
+      "question": "What are the recycling practices in student hostels?",
+      "answer": "The hostels have segregated bins for recycling paper, plastic, and organic waste, and encourage students to practice waste reduction."
+    },
+    {
+      "question": "Is there a sustainable transportation policy for faculty and staff?",
+      "answer": "Yes, faculty and staff are encouraged to carpool, use public transportation, and cycle to campus as part of the sustainability policy."
+    },
+    {
+      "question": "Are there sustainability-related research projects at the college?",
+      "answer": "Yes, students and faculty often engage in sustainability-related research, focusing on areas such as energy efficiency and waste management."
+    },
+    {
+      "question": "Does the college offer any environmental science programs?",
+      "answer": "Yes, the college offers programs in environmental science, focusing on sustainability, ecology, and environmental management."
+    },
+    {
+      "question": "What measures are in place to ensure sustainable food waste management?",
+      "answer": "The campus has a system in place for food waste segregation, composting, and recycling to reduce food waste."
+    },
+    {
+      "question": "How does the campus support local farmers and sustainable agriculture?",
+      "answer": "The college supports local farmers by sourcing organic produce from local markets and encouraging sustainable farming practices."
+    },
+    {
+      "question": "Are there sustainability-related clubs or societies at the college?",
+      "answer": "Yes, the eco-club is the primary platform for sustainability-related activities, but there are also other societies focusing on environmental issues."
+    },
+    {
+      "question": "What is the role of students in the campus sustainability efforts?",
+      "answer": "Students play a significant role by participating in sustainability projects, spreading awareness, and leading green initiatives."
+    },
+    {
+      "question": "Are there any energy-efficient appliances in the campus dormitories?",
+      "answer": "Yes, the dormitories are equipped with energy-efficient appliances, such as LED lighting and energy-saving fans and refrigerators."
+    },
+    {
+      "question": "What sustainable practices are encouraged during campus events?",
+      "answer": "Sustainable event practices include minimizing waste, reducing single-use plastics, and encouraging digital alternatives to paper."
+    },
+    {
+      "question": "How does the college measure its environmental performance?",
+      "answer": "The college measures its environmental performance through energy audits, waste assessments, and sustainability reporting."
+    },
+    {
+      "question": "Does the campus promote eco-friendly shopping?",
+      "answer": "Yes, the college encourages eco-friendly shopping by promoting reusable items and discouraging the use of disposable products."
+    },
+    {
+      "question": "How can I get involved in sustainability projects outside of the campus?",
+      "answer": "You can get involved in local community sustainability projects, environmental NGOs, or participate in national eco-initiatives."
+    },
+    {
+      "question": "What policies are in place to reduce the campus's overall waste production?",
+      "answer": "The college has a zero-waste policy, encourages waste segregation, and has partnered with waste management services to reduce waste."
+    }, 
+    {
+      "question": "How can I register for a mentorship program?",
+      "answer": "You can register for a mentorship program by visiting the mentorship portal on the college website or by contacting the mentorship coordinator."
+    },
+    {
+      "question": "Are there senior students or alumni available as mentors?",
+      "answer": "Yes, the mentorship program at SKCT includes both senior students and alumni as mentors."
+    },
+    {
+      "question": "What are the benefits of joining a mentorship program?",
+      "answer": "The benefits include personalized guidance, career advice, networking opportunities, and support in academic and professional development."
+    },
+    {
+      "question": "How do I select a mentor for my project?",
+      "answer": "You can select a mentor based on their area of expertise, past project experience, or advice from the mentorship coordinator."
+    },
+    {
+      "question": "Is there a one-on-one mentoring system for placements?",
+      "answer": "Yes, there is a one-on-one mentoring system in place to assist students with placement preparation, resume building, and interview coaching."
+    },
+    {
+      "question": "How are mentors assigned to students?",
+      "answer": "Mentors are assigned based on the student's academic interests, career goals, and the availability of suitable mentors from the faculty or alumni network."
+    },
+    {
+      "question": "Can I choose my own mentor in the program?",
+      "answer": "Yes, students can request a mentor based on their area of interest, though final assignments are subject to mentor availability."
+    },
+    {
+      "question": "Is mentorship limited to academic guidance?",
+      "answer": "No, mentorship at SKCT includes academic, career, and personal development guidance, as well as support with industry projects."
+    },
+    {
+      "question": "Can I have more than one mentor?",
+      "answer": "Yes, depending on your needs, you may have multiple mentors for different aspects of your academic and career development."
+    },
+    {
+      "question": "How often will I meet my mentor?",
+      "answer": "Meetings with your mentor can be scheduled based on mutual availability, but regular check-ins are encouraged to track progress."
+    },
+    {
+      "question": "Is there a mentorship program for postgraduate students?",
+      "answer": "Yes, the mentorship program is also available for postgraduate students, offering specialized guidance in research and career development."
+    },
+    {
+      "question": "Can I change my mentor if needed?",
+      "answer": "Yes, if you feel that your current mentor is not the best fit for your needs, you can request a mentor change through the mentorship coordinator."
+    },
+    {
+      "question": "How are alumni involved in the mentorship program?",
+      "answer": "Alumni actively participate in the mentorship program by providing career advice, sharing industry insights, and guiding students on professional development."
+    },
+    {
+      "question": "Do mentors assist with internship opportunities?",
+      "answer": "Yes, mentors often help students by providing internship leads, recommending them to companies, and offering advice on securing internships."
+    },
+    {
+      "question": "Are there any workshops conducted by mentors?",
+      "answer": "Yes, mentors occasionally conduct workshops to enhance students' skills, such as resume writing, interview techniques, and industry trends."
+    },
+    {
+      "question": "How can I get in touch with my mentor?",
+      "answer": "You can contact your mentor via email, phone, or through the mentorship program's official communication platform."
+    },
+    {
+      "question": "What qualities should I look for in a mentor?",
+      "answer": "Look for a mentor with expertise in your field of interest, someone who is approachable, experienced, and willing to invest time in your development."
+    },
+    {
+      "question": "Can mentors provide feedback on my academic performance?",
+      "answer": "Yes, mentors can provide constructive feedback on your academic progress and suggest areas for improvement."
+    },
+    {
+      "question": "Are mentorship programs available for all branches of study?",
+      "answer": "Yes, mentorship programs are available for all academic branches and specializations within the institution."
+    },
+    {
+      "question": "What should I expect from my mentor during the program?",
+      "answer": "You should expect guidance on academic matters, career advice, help with problem-solving, and ongoing support in reaching your professional goals."
+    },
+    {
+      "question": "Can mentors assist with project ideas and execution?",
+      "answer": "Yes, mentors provide guidance in selecting project ideas, defining scope, and ensuring proper execution, helping students work on industry-relevant projects."
+    },
+    {
+      "question": "Is there any formal structure to the mentorship program?",
+      "answer": "Yes, the mentorship program has a structured framework with set milestones and regular feedback sessions to ensure the program's effectiveness."
+    },
+    {
+      "question": "Are mentors involved in research projects?",
+      "answer": "Yes, faculty mentors are often involved in guiding students through research projects, offering insights and support throughout the process."
+    },
+    {
+      "question": "Can I request a mentor for specific guidance in placements?",
+      "answer": "Yes, you can request a mentor specifically for placement-related guidance, including interview coaching, job search strategies, and industry-specific advice."
+    },
+    {
+      "question": "How is progress tracked in the mentorship program?",
+      "answer": "Progress is tracked through regular meetings, feedback forms, and discussions between the mentor and mentee to assess growth and development."
+    },
+    {
+      "question": "Are there any networking opportunities through the mentorship program?",
+      "answer": "Yes, mentors often provide networking opportunities through industry connections, alumni networks, and professional events."
+    },
+    {
+      "question": "How do I prepare for my first meeting with my mentor?",
+      "answer": "Prepare by outlining your academic and career goals, any questions you might have, and topics you'd like to discuss during your first meeting."
+    },
+    {
+      "question": "Are there any group mentorship sessions?",
+      "answer": "Yes, group mentorship sessions may be organized to address common topics or career fields, providing peer learning and collaboration opportunities."
+    },
+    {
+      "question": "What happens if I miss a meeting with my mentor?",
+      "answer": "If you miss a meeting, it is important to inform your mentor in advance and reschedule the meeting as soon as possible."
+    },
+    {
+      "question": "Is there a mentorship program for soft skills development?",
+      "answer": "Yes, mentorship can include soft skills development such as communication, leadership, teamwork, and time management."
+    },
+    {
+      "question": "Do mentors assist with academic planning and course selection?",
+      "answer": "Yes, mentors assist with academic planning, course selection, and creating a roadmap for your academic success."
+    },
+    {
+      "question": "How can I become a mentor?",
+      "answer": "To become a mentor, you must be a senior student or alumni with significant experience in a particular field and have a willingness to guide and support others."
+    },
+    {
+      "question": "Is there any formal training for mentors?",
+      "answer": "Yes, mentors undergo training to ensure they are equipped to provide effective guidance, communicate well, and help mentees achieve their goals."
+    },
+    {
+      "question": "Can mentorship be extended after graduation?",
+      "answer": "Yes, mentorship can continue after graduation, especially through alumni networks or ongoing professional relationships."
+    },
+    {
+      "question": "How do I know if the mentorship program is right for me?",
+      "answer": "If you're seeking guidance, career advice, or help with academic or personal growth, the mentorship program can be a valuable resource for you."
+    },
+    {
+      "question": "Can I give feedback about my mentor?",
+      "answer": "Yes, the program encourages mentees to provide feedback on their mentors to ensure the effectiveness of the mentorship process."
+    },
+    {
+      "question": "How long does the mentorship program last?",
+      "answer": "The mentorship program typically lasts for a semester or academic year, but it can be extended based on the mentee's needs and goals."
+    },
+    {
+      "question": "What types of projects can mentors help with?",
+      "answer": "Mentors can help with academic projects, research initiatives, industry collaborations, internships, and personal development projects."
+    },
+    {
+      "question": "Can I request a mentor who works in a specific industry?",
+      "answer": "Yes, you can request a mentor who has experience in a specific industry, whether for academic guidance or career insights."
+    },
+    {
+      "question": "Is mentorship available for both undergraduate and postgraduate students?",
+      "answer": "Yes, mentorship is available for both undergraduate and postgraduate students at SKCT."
+    },
+    {
+      "question": "Can mentorship help with personal development?",
+      "answer": "Yes, mentors provide support for personal development, helping students build confidence, resilience, and self-awareness."
+    },
+    {
+      "question": "Are there any success stories from previous mentorship programs?",
+      "answer": "Yes, many students have successfully leveraged mentorship to enhance their academic performance, secure internships, and land job offers."
+    },
+    {
+      "question": "Can I mentor a fellow student?",
+      "answer": "Yes, senior students can also mentor their juniors, offering peer guidance in academic matters and personal development."
+    },
+    {
+      "question": "What are the current research projects on campus?",
+      "answer": "SKCT is engaged in a variety of research projects across multiple disciplines, including sustainable engineering, renewable energy, artificial intelligence, and biotechnology."
+    },
+    {
+      "question": "How can I publish my research paper?",
+      "answer": "You can publish your research paper through various academic journals or conferences. The CRD provides support in identifying suitable platforms for publication."
+    },
+    {
+      "question": "Does the college support patent filing for innovations?",
+      "answer": "Yes, the CRD at SKCT supports patent filing for innovations and inventions. Faculty, students, and researchers can file patents with SKCT as the applicant."
+    },
+    {
+      "question": "Are there grants for independent research?",
+      "answer": "Yes, SKCT helps researchers secure national and international research grants. The CRD also assists in writing and submitting project proposals."
+    },
+    {
+      "question": "How can I collaborate with other institutions on research?",
+      "answer": "You can collaborate with other institutions by reaching out to the CRD, which coordinates industrial and academic linkages to facilitate research collaborations."
+    },
+    {
+      "question": "What is the role of the Center for Research and Development (CRD) at SKCT?",
+      "answer": "The CRD fosters research, consultancy, and entrepreneurial activities. It supports faculty, students, and alumni in research and innovation endeavors."
+    },
+    {
+      "question": "Does SKCT participate in the National Institutional Ranking Framework (NIRF)?",
+      "answer": "Yes, SKCT aims to secure a position in the top 100 of the NIRF rankings by focusing on research quality and academic performance."
+    },
+    {
+      "question": "What are Intellectual Property Rights (IPR) and how are they handled at SKCT?",
+      "answer": "IPR refers to legal protections for innovations and creations. SKCT has an IPR cell that helps with patent search, filing, and the management of copyrights and trademarks."
+    },
+    {
+      "question": "Does the CRD organize international conferences and workshops?",
+      "answer": "Yes, the CRD organizes international conferences, workshops, and seminars to enhance research collaboration and knowledge exchange."
+    },
+    {
+      "question": "What is the vision of the CRD at SKCT?",
+      "answer": "The CRD aims to become a recognized hub for research, consultancy, innovation, and start-up activities by providing continuous support to researchers."
+    },
+    {
+      "question": "What is the mission of the CRD at SKCT?",
+      "answer": "The mission is to partner with national and international research communities, enhance research outputs, and support interdisciplinary research."
+    },
+    {
+      "question": "What are the long-term Key Performance Indicators (KPIs) for the CRD?",
+      "answer": "Long-term KPIs include securing a top 100 NIRF ranking, achieving 100% Ph.D. qualified faculty, and increasing the h-index in SCOPUS by 10 per year."
+    },
+    {
+      "question": "What are the short-term KPIs for the CRD?",
+      "answer": "Short-term KPIs include achieving 250 publications in WoS journals, securing at least 50 lakhs in research grants, and filing 30 patents."
+    },
+    {
+      "question": "How can I contribute to the research efforts at SKCT?",
+      "answer": "You can contribute by participating in ongoing research projects, applying for grants, publishing research, or innovating new technologies."
+    },
+    {
+      "question": "How does the CRD support research in interdisciplinary fields?",
+      "answer": "The CRD supports interdisciplinary research by facilitating collaboration across different departments and providing infrastructure for cross-disciplinary projects."
+    },
+    {
+      "question": "Can I apply for funding for my research ideas?",
+      "answer": "Yes, the CRD helps faculty and students apply for national and international research grants, including those worth up to 5 crores."
+    },
+    {
+      "question": "What are the types of research grants available at SKCT?",
+      "answer": "Research grants are available for various domains, including technological research, innovation, and start-up initiatives, both from government and private sector sponsors."
+    },
+    {
+      "question": "Does SKCT support start-ups and entrepreneurship?",
+      "answer": "Yes, the CRD supports entrepreneurship by helping with incubation, start-up ideas, and providing resources for budding entrepreneurs."
+    },
+    {
+      "question": "What is the process for patent filing at SKCT?",
+      "answer": "The process includes patent search, writing claims, filing forms, and assisting with applications through the CRD's IPR cell."
+    },
+    {
+      "question": "How does SKCT encourage innovation among students?",
+      "answer": "SKCT encourages innovation by providing an environment conducive to creativity, offering resources for start-ups, and organizing events like hackathons and innovation challenges."
+    },
+    {
+      "question": "Are there facilities for patent research at SKCT?",
+      "answer": "Yes, the CRD's IPR cell offers patent search services, patent writing, and guidance on the patent filing process."
+    },
+    {
+      "question": "How does SKCT facilitate industry-academic collaboration?",
+      "answer": "The CRD facilitates industrial linkages by organizing workshops, internships, and research projects with industry partners."
+    },
+    {
+      "question": "Can I register for a Ph.D. under the faculty at SKCT?",
+      "answer": "Yes, faculty who have completed two years of service at SKCT are eligible to become Ph.D. supervisors, allowing students to register for Ph.D. under them."
+    },
+    {
+      "question": "What is the importance of SCOPUS and how does SKCT utilize it?",
+      "answer": "SCOPUS is a database of academic publications. SKCT focuses on increasing its h-index in SCOPUS by encouraging faculty and students to publish research in indexed journals."
+    },
+    {
+      "question": "What is the role of the PR Cell in SKCT’s research activities?",
+      "answer": "The PR Cell creates awareness about intellectual property rights (IPR) and motivates students and faculty to engage in IPR-related activities."
+    },
+    {
+      "question": "How can I get involved in the innovation and start-up activities at SKCT?",
+      "answer": "You can get involved by joining the CRD's incubator, participating in innovation workshops, and collaborating with faculty on entrepreneurial projects."
+    },
+    {
+      "question": "What type of research output is expected from faculty?",
+      "answer": "Faculty are expected to produce high-quality publications, contribute to patents, and engage in projects that lead to tangible societal benefits."
+    },
+    {
+      "question": "What support does SKCT provide to researchers for securing funding?",
+      "answer": "SKCT supports researchers in identifying funding opportunities, writing grant proposals, and securing funds for research projects."
+    },
+    {
+      "question": "What is the role of the IPR cell at SKCT?",
+      "answer": "The IPR cell educates faculty and students about patents, copyrights, trademarks, and industrial designs. It also helps in patent filing and related processes."
+    },
+    {
+      "question": "What are the requirements for filing a patent at SKCT?",
+      "answer": "To file a patent, you need to have a novel idea, prepare a detailed patent document, and submit the application through the IPR cell at SKCT."
+    },
+    {
+      "question": "How does SKCT promote research-driven entrepreneurship?",
+      "answer": "The CRD promotes research-driven entrepreneurship by supporting start-ups, offering mentorship, and facilitating the commercialization of research outputs."
+    },
+    {
+      "question": "Does SKCT have any collaboration with global research networks?",
+      "answer": "Yes, SKCT collaborates with international research networks to facilitate global knowledge exchange and joint research projects."
+    },
+    {
+      "question": "How does the CRD support faculty in publishing their research?",
+      "answer": "The CRD provides guidance on choosing suitable journals, writing high-quality research papers, and submitting to national and international conferences."
+    },
+    {
+      "question": "What are the benefits of participating in international conferences organized by SKCT?",
+      "answer": "Participating in international conferences provides opportunities for networking, learning about the latest research trends, and publishing in reputed journals."
+    },
+    {
+      "question": "How are research outcomes measured at SKCT?",
+      "answer": "Research outcomes are measured through publication quality, patent filing, successful project proposals, and collaborations with industry and academia."
+    },
+    {
+      "question": "How does SKCT encourage cross-disciplinary research?",
+      "answer": "SKCT encourages cross-disciplinary research by providing infrastructure, promoting collaboration between different departments, and offering research funding for interdisciplinary projects."
+    },
+    {
+      "question": "What is the role of the incubator at SKCT?",
+      "answer": "The incubator at SKCT helps start-ups by providing resources such as office space, mentorship, and access to funding for innovation-based ventures."
+    },
+    {
+      "question": "What are the benefits of filing a patent for an innovation?",
+      "answer": "Filing a patent protects your intellectual property, provides legal rights over your innovation, and can attract funding and business opportunities."
+    },
+    {
+      "question": "How can I become a research supervisor at SKCT?",
+      "answer": "After completing two years of service at SKCT, faculty members can register as Ph.D. supervisors, guiding students in their research projects."
+    },
+    {
+      "question": "What is the process for applying for a research grant at SKCT?",
+      "answer": "You can apply for a research grant by submitting a project proposal to the CRD, which will assist you in identifying potential sponsors and preparing the application."
+    },
+    {
+      "question": "How does SKCT support students in publishing their research?",
+      "answer": "The CRD helps students by identifying suitable journals, guiding them in writing research papers, and providing resources for publishing their work."
+    },
+    {
+      "question": "Does SKCT organize workshops on innovation?",
+      "answer": "Yes, SKCT organizes workshops on innovation, entrepreneurship, and research methodologies to foster creativity and knowledge sharing."
+    },
+    {
+      "question": "How can I get support for my research project at SKCT?",
+      "answer": "You can approach the CRD for support in terms of research funding, mentoring, collaboration opportunities, and access to research facilities."
+    },
+    {
+      "question": "What certifications can I pursue on campus?",
+      "answer": "SKCT offers a variety of certifications through associations like IETE, CSI, and IEEE. Some examples include certifications in Digital Image Processing, VLSI circuits, JavaScript, and Cyber Security."
+    },
+    {
+      "question": "How do I register for workshops or seminars?",
+      "answer": "To register for workshops or seminars, you can visit the official SKCT website or the respective association’s page, where details and registration links will be provided."
+    },
+    {
+      "question": "Are there any compulsory certifications for my course?",
+      "answer": "Certain courses may have compulsory certifications related to their curriculum. It’s recommended to check with the department or course coordinator for specific requirements."
+    },
+    {
+      "question": "Who are the guest speakers for upcoming workshops?",
+      "answer": "Guest speakers for upcoming workshops are often experts in the field. Previous speakers have included professionals from top industries and renowned academicians."
+    },
+    {
+      "question": "How do I get a certificate after attending a workshop?",
+      "answer": "After attending a workshop, you will typically need to fill out a feedback form or attendance sheet. Certificates are then issued by the respective organizing association upon completion."
+    },
+    {
+      "question": "What is the focus of the IETE's one-day workshop on Basics of Arduino Programming?",
+      "answer": "The workshop focuses on introducing participants to Arduino programming, including basics like setting up the environment and programming simple circuits."
+    },
+    {
+      "question": "What is the content of the IETE Skill Development Training program on Digital Image Processing using MATLAB?",
+      "answer": "This program focuses on teaching the application of MATLAB in processing digital images, covering algorithms and techniques used for image analysis and manipulation."
+    },
+    {
+      "question": "What is the seminar on 'Impact of Artificial Intelligence on Innovation' by CSI about?",
+      "answer": "The seminar discusses how artificial intelligence is driving innovation in various industries, focusing on AI's applications in product development and business strategies."
+    },
+    {
+      "question": "What topics are covered in the IEEE Product Design and Development in Automotive Industry workshop?",
+      "answer": "The workshop covers the basics of product design, development, and innovation in the automotive industry, with a focus on technology and market trends."
+    },
+    {
+      "question": "What is the IETE Workshop on Design Thinking in Combinational VLSI Circuits?",
+      "answer": "This workshop aims to teach design thinking principles applied to combinational VLSI circuits, focusing on logic design and optimization techniques."
+    },
+    {
+      "question": "Who was the speaker at the IETE Guest Lecture on 'Empowering Minds with the Colossal Cloud Environment'?",
+      "answer": "The guest lecture featured an expert who discussed how cloud environments enable scalable computing and storage solutions and their applications in modern industries."
+    },
+    {
+      "question": "What was covered in the IETE International FDP on 'Disruptive Technologies for Next Gen Computing'?",
+      "answer": "The FDP focused on disruptive technologies that are reshaping next-generation computing, including topics like AI, blockchain, and quantum computing."
+    },
+    {
+      "question": "What was the topic of the CSI Webinar on 'Automation Testing Tool - Selenium'?",
+      "answer": "This webinar covered the use of Selenium, a popular automation testing tool, to automate web applications for software testing."
+    },
+    {
+      "question": "What was the focus of the IEEE Product Design and Development in Automotive Industry workshop in 2022?",
+      "answer": "The workshop provided insights into the product design process and development techniques specifically for the automotive sector, including design tools and industry practices."
+    },
+    {
+      "question": "What is discussed in the IEEE Workshop on Energy Conservation and Electrical Safety?",
+      "answer": "The workshop focuses on strategies for conserving energy and ensuring electrical safety in various systems, highlighting best practices in the industry."
+    },
+    {
+      "question": "What was the topic of the CSI Webinar on 'Into the World of Automation'?",
+      "answer": "This webinar introduced participants to the world of automation, exploring its applications across industries and its growing role in streamlining operations."
+    },
+    {
+      "question": "What was the subject of the CSI Webinar on 'Industrial Trends on New Normal'?",
+      "answer": "The webinar discussed the changing trends in industries due to the 'new normal,' focusing on technological advances and shifts in workplace culture post-pandemic."
+    },
+    {
+      "question": "What was the CSI Workshop on 'JavaScript 101' about?",
+      "answer": "This workshop covered the basics of JavaScript, teaching participants fundamental concepts such as syntax, data types, and how to create interactive web pages."
+    },
+    {
+      "question": "What was the CSI Webinar on 'Opportunities Through GATE/ESE/PSU' about?",
+      "answer": "The webinar provided insights into opportunities available through exams like GATE, ESE, and PSU, offering guidance on preparation and career prospects."
+    },
+    {
+      "question": "What was the guest lecture on 'Cyber Security in India' about?",
+      "answer": "The guest lecture focused on the current state of cybersecurity in India, discussing challenges, threats, and measures to protect data and networks."
+    },
+    {
+      "question": "What was covered in the CSI Webinar on 'Industry Expectations and How to Crack Interviews'?",
+      "answer": "This webinar covered industry expectations for fresh graduates and provided tips and strategies to succeed in interviews and secure job offers."
+    },
+    {
+      "question": "What was discussed in the CSI Webinar on 'Trends in Data Analytics and Data Engineering'?",
+      "answer": "This webinar explored the latest trends in data analytics and data engineering, including data visualization, big data, and the role of machine learning in data processing."
+    },
+    {
+      "question": "What topics were covered in the CSI Webinar on 'Django Web Development with Python'?",
+      "answer": "The webinar focused on using Django, a web development framework in Python, to build web applications, covering topics like templates, views, and models."
+    },
+    {
+      "question": "What was the theme of the Techfest 2k18 organized by CSI Chapter?",
+      "answer": "Techfest 2k18 was a coding competition organized by the CSI Chapter, where students competed to solve complex programming challenges."
+    },
+    {
+      "question": "Are there any other workshops offered by the CSI Chapter?",
+      "answer": "Yes, the CSI Chapter regularly organizes workshops on various topics like web development, data analytics, and industry trends."
+    },
+    {
+      "question": "Can I pursue certifications from external organizations while at SKCT?",
+      "answer": "Yes, SKCT encourages students to pursue certifications from external organizations and provides support for online courses and certifications."
+    },
+    {
+      "question": "How can I stay updated about upcoming workshops and certifications?",
+      "answer": "You can stay updated by regularly checking the official SKCT website, department noticeboards, and announcements from relevant associations."
+    },
+    {
+      "question": "How does SKCT ensure quality in its workshops?",
+      "answer": "SKCT ensures quality by inviting industry experts, professionals, and academics as speakers and instructors, and by focusing on practical, hands-on training."
+    },
+    {
+      "question": "Is there a fee for attending workshops at SKCT?",
+      "answer": "Some workshops may have a nominal fee for materials and resources, while others are free of charge. It depends on the event and its organizers."
+    },
+    {
+      "question": "Can I attend a workshop without being part of an association?",
+      "answer": "Yes, most workshops are open to all students, although some may be tailored for members of specific associations like IETE, CSI, or IEEE."
+    },
+    {
+      "question": "How do I get a certificate for completing an online workshop?",
+      "answer": "Upon completing an online workshop, you may need to complete an evaluation or quiz. Certificates are then issued after successful completion."
+    },
+    {
+      "question": "What are some examples of industry-specific workshops conducted at SKCT?",
+      "answer": "SKCT conducts industry-specific workshops like 'Product Design and Development in the Automotive Industry' and 'Energy Conservation and Electrical Safety'."
+    },
+    {
+      "question": "Can I attend workshops organized by other institutions through SKCT?",
+      "answer": "Yes, SKCT often collaborates with other institutions to offer workshops and seminars, and students are encouraged to participate in these events."
+    },
+    {
+      "question": "What is the importance of certifications in the tech industry?",
+      "answer": "Certifications validate your skills and knowledge in specific areas, making you more competitive in the job market and helping you stand out to employers."
+    },
+    {
+      "question": "What workshops focus on programming and software development?",
+      "answer": "Workshops like 'JavaScript 101' and 'Django Web Development with Python' focus on programming and software development skills."
+    },
+    {
+      "question": "Are there any workshops on soft skills and professional development?",
+      "answer": "Yes, workshops on topics like 'Industry Expectations' and 'How to Crack Interviews' focus on developing professional and soft skills."
+    }
+]
+
+
+
+  
