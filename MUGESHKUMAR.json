@@ -1,0 +1,326 @@
+[
+    {
+        "question": "What is the first step in the admission procedure?",
+        "answer": "The first step is registration, where candidates provide basic details like name, father’s name, mobile number, and email address."
+      },
+      {
+        "question": "What details are required during registration?",
+        "answer": "Candidates must provide their name, father’s name, mobile number, and email address. It is important to provide correct contact details as all communication will be via the provided mobile number and email."
+      },
+      {
+        "question": "What is the counselling fee for General/OBC and SC/ST categories?",
+        "answer": "The application fee is Rs. 500 for General/OBC category and Rs. 250 for SC/ST category."
+      },
+      {
+        "question": "What information must be filled in the personal details section?",
+        "answer": "Candidates need to enter details of nativity, nationality, category, marks of qualifying exams, and the board."
+      },
+      {
+        "question": "Can candidates make corrections to the application form after submission?",
+        "answer": "No, candidates must verify all details before submission as corrections are not allowed later."
+      },
+      {
+        "question": "What is the purpose of the random number allotment?",
+        "answer": "The random number helps to break ties between candidates if all other tie-breaking rules fail."
+      },
+      {
+        "question": "What documents are required for verification?",
+        "answer": "Candidates must carry the following original documents: High School marksheet, Intermediate marksheet, Transfer certificate, Nativity certificate (if applicable), Category certificate (if applicable), and a Photo identity proof like Aadhaar, Election ID, or Driving licence."
+      },
+      {
+        "question": "How is the merit list prepared?",
+        "answer": "The merit list is prepared based on normalized marks in Physics, Chemistry, and Mathematics. Mathematics has 100 marks weightage, while Physics and Chemistry have 50 marks each. In case of a tie, the tie-breaking criteria are: marks in Mathematics, marks in Physics, marks in an optional subject, age (older candidate preferred), and random number (higher number preferred)."
+      },
+      {
+        "question": "What happens during the counselling process?",
+        "answer": "Candidates listed in the merit list can participate in counselling as per their merit order. They need to log in to their TNEA account, pay an initial fee (Rs. 5000 for General/OBC and Rs. 1000 for SC/ST), and fill in their college preferences. Choices must be submitted in the order of preference, and fresh choices are required for each counselling round."
+      },
+      {
+        "question": "How is the seat allotment result determined?",
+        "answer": "The seat allotment result is based on the merit list, filled choices, and candidate category. Candidates can log in to their TNEA account to view the result and either accept or surrender the seat to participate in the next counselling round. The final seat allotment result is announced after all rounds are completed."
+      },
+      {
+        "question": "What must candidates do after being allotted a seat?",
+        "answer": "Candidates must report to the allotted institute for the further admission process."
+      },
+      {
+        "question": "When was the B.E. Civil Engineering department started, and what is its sanctioned intake?",
+        "answer": "The B.E. Civil Engineering department was started in 1985 with a sanctioned intake of 60 students."
+      },
+      {
+        "question": "What is the NBA accreditation status of the B.E. Civil Engineering department?",
+        "answer": "It is accredited by the NBA for 3 years till June 2025."
+      },
+      {
+        "question": "When was the B.E. Mechanical Engineering department started, and what is its sanctioned intake?",
+        "answer": "The B.E. Mechanical Engineering department was started in 1985 with a sanctioned intake of 60 students."
+      },
+      {
+        "question": "What is the NBA accreditation status of the B.E. Mechanical Engineering department?",
+        "answer": "It is accredited by the NBA for 6 years till June 2027."
+      },
+      {
+        "question": "When was the B.E. Electronics and Communication Engineering department started, and what is its sanctioned intake?",
+        "answer": "The B.E. Electronics and Communication Engineering department was started in 1985 with a sanctioned intake of 180 students."
+      },
+      {
+        "question": "What is the NBA accreditation status of the B.E. Electronics and Communication Engineering department?",
+        "answer": "It is accredited by the NBA for 3 years till June 2025."
+      },
+      {
+        "question": "When was the B.E. Computer Science and Engineering department started, and what is its sanctioned intake?",
+        "answer": "The B.E. Computer Science and Engineering department was started in 1998 with a sanctioned intake of 240 students."
+      },
+      {
+        "question": "What is the NBA accreditation status of the B.E. Computer Science and Engineering department?",
+        "answer": "It is accredited by the NBA for 3 years till June 2025."
+      },
+      {
+        "question": "When was the B.Tech. Information Technology department started, and what is its sanctioned intake?",
+        "answer": "The B.Tech. Information Technology department was started in 1999 with a sanctioned intake of 180 students."
+      },
+      {
+        "question": "What is the NBA accreditation status of the B.Tech. Information Technology department?",
+        "answer": "It is accredited by the NBA for 6 years till June 2027."
+      },
+      {
+        "question": "When was the B.E. Electrical and Electronics Engineering department started, and what is its sanctioned intake?",
+        "answer": "The B.E. Electrical and Electronics Engineering department was started in 2000 with a sanctioned intake of 120 students."
+      },
+      {
+        "question": "What is the NBA accreditation status of the B.E. Electrical and Electronics Engineering department?",
+        "answer": "It is accredited by the NBA for 3 years till June 2025."
+      },
+      {
+        "question": "When was the B.Tech Artificial Intelligence and Data Science department started, and what is its sanctioned intake?",
+        "answer": "The B.Tech Artificial Intelligence and Data Science department was started in 2021 with a sanctioned intake of 120 students."
+      },
+      {
+        "question": "What is the NBA accreditation status of the B.Tech Artificial Intelligence and Data Science department?",
+        "answer": "The department is not accredited by the NBA."
+      },
+      {
+        "question": "When was the B.E. Computer Science and Engineering (Cyber Security) department started, and what is its sanctioned intake?",
+        "answer": "The B.E. Computer Science and Engineering (Cyber Security) department was started in 2022 with a sanctioned intake of 60 students."
+      },
+      {
+        "question": "What is the NBA accreditation status of the B.E. Computer Science and Engineering (Cyber Security) department?",
+        "answer": "The department is not accredited by the NBA."
+      },
+      {
+        "question": "When was the B.E. Computer Science and Engineering (Internet of Things) department started, and what is its sanctioned intake?",
+        "answer": "The B.E. Computer Science and Engineering (Internet of Things) department was started in 2022 with a sanctioned intake of 60 students."
+      },
+      {
+        "question": "What is the NBA accreditation status of the B.E. Computer Science and Engineering (Internet of Things) department?",
+        "answer": "The department is not accredited by the NBA."
+      },
+      {
+        "question": "When was the B.E. Computer Science and Engineering (Artificial Intelligence and Machine Learning) department started, and what is its sanctioned intake?",
+        "answer": "The B.E. Computer Science and Engineering (Artificial Intelligence and Machine Learning) department was started in 2022 with a sanctioned intake of 60 students."
+      },
+      {
+        "question": "What is the NBA accreditation status of the B.E. Computer Science and Engineering (Artificial Intelligence and Machine Learning) department?",
+        "answer": "The department is not accredited by the NBA."
+      },
+      {
+        "question": "What is the minimum eligibility for the General Category in Maths, Physics, and Chemistry?",
+        "answer": "The General Category requires a minimum average of 45% and above in Maths, Physics, and Chemistry."
+      },
+      {
+        "question": "What is the minimum eligibility for Backward Class (including Backward Class Muslims) in Maths, Physics, and Chemistry?",
+        "answer": "Backward Class (including Backward Class Muslims) requires a minimum average of 40% and above in Maths, Physics, and Chemistry."
+      },
+      {
+        "question": "What is the minimum eligibility for MBC & DNC in Maths, Physics, and Chemistry?",
+        "answer": "MBC & DNC requires a minimum average of 40% and above in Maths, Physics, and Chemistry."
+      },
+      {
+        "question": "What is the minimum eligibility for SC/SCA/ST in Maths, Physics, and Chemistry?",
+        "answer": "SC/SCA/ST requires a minimum average of 40% in the qualifying examination with Maths, Physics, and Chemistry."
+      },
+      {
+        "question": "What is the minimum eligibility for the General Category in vocational subjects?",
+        "answer": "The General Category requires a minimum average of 45% and above in related subjects, Vocational Theory, and Practicals."
+      },
+      {
+        "question": "What is the minimum eligibility for Backward Class (including Backward Class Muslims) in vocational subjects?",
+        "answer": "Backward Class (including Backward Class Muslims) requires a minimum average of 40% and above in related subjects, Vocational Theory, and Practicals."
+      },
+      {
+        "question": "What is the minimum eligibility for MBC & DNC in vocational subjects?",
+        "answer": "MBC & DNC requires a minimum average of 40% and above in related subjects, Vocational Theory, and Practicals."
+      },
+      {
+        "question": "What is the minimum eligibility for SC/SCA/ST in vocational subjects?",
+        "answer": "SC/SCA/ST requires a minimum average of 40% and above in related subjects, Vocational Theory, and Practicals."
+      },
+      {
+        "question": "How does Sri Krishna College of Technology empower learners through professional society membership?",
+        "answer": "Sri Krishna College of Technology empowers learners to connect, share ideas, and access resources through professional society membership."
+      },
+      {
+        "question": "How does professional society membership benefit the faculty at Sri Krishna College of Technology?",
+        "answer": "It enables the faculty to enrich the teaching and learning process in the classroom by incorporating the standards of professional bodies."
+      },
+      {
+        "question": "What workshop did IETE organize in 2023?",
+        "answer": "IETE organized a one-day workshop on Basics of Arduino Programming in 2023."
+      },
+      {
+        "question": "What skill development program did IETE conduct in 2023?",
+        "answer": "IETE conducted a Skill Development Training Program on Digital Image Processing using MATLAB in 2023."
+      },
+      {
+        "question": "What seminar did CSI organize in 2023?",
+        "answer": "CSI organized a seminar on 'Impact of Artificial Intelligence on Innovation' in 2023."
+      },
+      {
+        "question": "What event did IEEE conduct in 2022 related to the automotive industry?",
+        "answer": "IEEE conducted a program on Product Design and Development in the Automotive Industry in 2022."
+      },
+      {
+        "question": "What workshop did IETE organize in 2022 on VLSI circuits?",
+        "answer": "IETE organized a workshop on Design Thinking in Combinational VLSI Circuits in 2022."
+      },
+      {
+        "question": "What guest lecture did IETE host in 2022?",
+        "answer": "IETE hosted a guest lecture on Empowering Minds with the Colossal Cloud Environment in 2022."
+      },
+      {
+        "question": "What international FDP did IETE conduct in 2022?",
+        "answer": "IETE conducted an International FDP on Disruptive Technologies for Next-Gen Computing in 2022."
+      },
+      {
+        "question": "What webinar did CSI host in 2022?",
+        "answer": "CSI hosted a webinar on Automation Testing Tool - Selenium in 2022."
+      },
+      {
+        "question": "What program did IEEE conduct in 2021 on energy and safety?",
+        "answer": "IEEE conducted a program on Energy Conservation and Electrical Safety in 2021."
+      },
+      {
+        "question": "What webinars did CSI conduct in 2021?",
+        "answer": "CSI conducted webinars on 'INTO the World of Automation', 'Industrial Trends on New Normal', and 'Opportunities Through GATE/ESE/PSU' in 2021."
+      },
+      {
+        "question": "What workshop did CSI organize in 2021 on JavaScript?",
+        "answer": "CSI organized a workshop on JavaScript 101 in 2021."
+      },
+      {
+        "question": "What guest lecture did CSI host in 2020 on cybersecurity?",
+        "answer": "CSI hosted a guest lecture on Cyber Security in India in 2020."
+      },
+      {
+        "question": "What webinars did CSI conduct in 2020?",
+        "answer": "CSI conducted webinars on 'Trends in Data Analytics and Data Engineering' and 'Industry Expectations and How to Crack Interviews' in 2020."
+      },
+      {
+        "question": "What webinar did CSI conduct in 2019?",
+        "answer": "CSI conducted a webinar on Django Web Development With Python in 2019."
+      },
+      {
+        "question": "What event did CSI CHAPTER conduct in 2018?",
+        "answer": "CSI CHAPTER conducted Techfest - 2k18, a coding competition for students in 2018."
+      },
+      {
+        "question": "What services are provided by the COE Office?",
+        "answer": "The COE Office provides services related to ID cards, hall tickets, timetables, forms, audits, and regulations."
+      },
+      {
+        "question": "What documents can students obtain from the COE Office?",
+        "answer": "Students can obtain their ID card, hall ticket, and required forms from the COE Office."
+      },
+      {
+        "question": "What schedules are provided under the Timetable section?",
+        "answer": "The Timetable section includes general timetables and the End Semester Exam Timetable."
+      },
+      {
+        "question": "What exam-related information can be accessed through the COE Office?",
+        "answer": "Students can access hall tickets, End Semester Exam Timetables, and results through the COE Office."
+      },
+      {
+        "question": "What does the Placement Team section offer?",
+        "answer": "The Placement Team section provides resources and information for student placement opportunities."
+      },
+      {
+        "question": "Where can I find updates about exams and results at SKCT?",
+        "answer": "Updates about exams and results are frequently posted on the SKCT college website: https://skct.edu.in."
+      },
+      {
+        "question": "What type of exam-related information is updated on the SKCT website?",
+        "answer": "The SKCT website provides details about exam schedules, results, and important notices related to examinations."
+      },
+      {
+        "question": "How often are exam results updated on the SKCT website?",
+        "answer": "Exam results are updated promptly on the SKCT website as soon as they are finalized."
+      },
+      {
+        "question": "Can students check their exam results on the SKCT website?",
+        "answer": "Yes, students can check their exam results on the SKCT website."
+      },
+      {
+        "question": "Does the SKCT website provide information about internal and semester exams?",
+        "answer": "Yes, information about internal and semester exams is made available on the website."
+      },
+      {
+        "question": "Is the SKCT website accessible for viewing exam updates?",
+        "answer": "Yes, the SKCT website is publicly accessible for viewing exam schedules and results at https://skct.edu.in."
+      },
+      {
+        "question": "Can parents access exam results on the SKCT website?",
+        "answer": "Yes, parents can access exam results posted on the SKCT website to stay informed about their child’s performance."
+      },
+      {
+        "question": "Are the exam schedules updated on the SKCT website?",
+        "answer": "Yes, exam schedules are updated on the SKCT website for the convenience of students and faculty."
+      },
+      {
+        "question": "Does the SKCT website display notifications about exam-related announcements?",
+        "answer": "Yes, important exam-related announcements are displayed on the SKCT website."
+      },
+      {
+        "question": "How can students stay informed about their exam performance?",
+        "answer": "Students can stay informed about their exam performance by checking their results on the SKCT website."
+      },
+      {
+        "question": "Does the SKCT website provide information about re-exams or supplementary exams?",
+        "answer": "Yes, details about re-exams or supplementary exams are likely updated on the SKCT website."
+      },
+      {
+        "question": "Can students download their mark sheets from the SKCT website?",
+        "answer": "While not explicitly mentioned, the website may offer facilities to download or view mark sheets online."
+      },
+      {
+        "question": "Are there sections for both internal assessments and final exams on the SKCT website?",
+        "answer": "Yes, the website likely includes sections for both internal assessments and final exam results."
+      },
+      {
+        "question": "What is the official link to check exam-related updates at SKCT?",
+        "answer": "The official link to check exam-related updates is https://skct.edu.in."
+      },
+      {
+        "question": "Can I find information about exam results for previous semesters on the SKCT website?",
+        "answer": "Yes, exam results for previous semesters may be available for reference on the website."
+      },
+      {
+        "question": "Are notifications about exam dates provided on the SKCT website?",
+        "answer": "Yes, notifications about upcoming exam dates are provided on the SKCT website."
+      },
+      {
+        "question": "How can students access their semester exam results on the SKCT website?",
+        "answer": "Students can log in to the website using their credentials to access their semester exam results."
+      },
+      {
+        "question": "Does the SKCT website provide guidelines for exams?",
+        "answer": "Yes, guidelines and instructions related to exams may be provided on the website."
+      },
+      {
+        "question": "Is there a specific section for exam results on the SKCT website?",
+        "answer": "Yes, the website likely has a dedicated section for viewing and accessing exam results."
+      },
+      {
+        "question": "How does the SKCT website help students prepare for exams?",
+        "answer": "The website helps by providing timely updates on exam schedules, results, and guidelines for preparation."
+      }
+] 
